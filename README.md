@@ -31,3 +31,23 @@ URL: https://www.linkedin.com/learning/flask-essential-training-24681038
   - 7. Data Visualization
   - 8. Conclusion and Deployment
   - Conclusion
+
+### Course: Python Essential Training, authored by Ryan Mitchell
+URL: https://www.linkedin.com/learning/python-essential-training-18764650/
+- **Author:** Ryan Mitchell
+- **Duration:** 4h 23m
+- **Level:** Beginner
+- **Structure:**
+  - Introduction
+  - 1. Gearing Up for Python
+  - 2. Quickstart
+  - 3. Basic Data Types
+  - 4. Basic Data Structures
+  - 5. Control Flow
+  - 6. Functions
+  - 7. Classes and Objects
+  - 8. Errors
+  - 9. Threads and Processes
+  - 10. Working with Files
+  - 11. Packaging Python
+  - Conclusion
