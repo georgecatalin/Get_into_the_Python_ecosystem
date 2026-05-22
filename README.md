@@ -51,3 +51,19 @@ URL: https://www.linkedin.com/learning/python-essential-training-18764650/
   - 10. Working with Files
   - 11. Packaging Python
   - Conclusion
+
+### Course: Learning Docker, authored by Vincent Voyer
+URL: https://www.linkedin.com/learning/learning-docker-17236240/
+- **Author:** Vincent Voyer
+- **Duration:** 1h 42m
+- **Level:** Beginner
+- **Structure:**
+  - Introduction
+  - 1. Docker Overview
+  - 2. Running Containers
+  - 3. Building Images
+  - 4. Managing Data and Volumes
+  - 5. Networking in Docker
+  - 6. Docker Compose
+  - 7. Publishing and Sharing Images
+  - Conclusion
