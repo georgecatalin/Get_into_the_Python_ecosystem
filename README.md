@@ -4,6 +4,16 @@ practical pieces owork based on the content of Udemy courses covering various as
 ## Content ##
 ### Course: Python Django - The Practical Guide, authored by Maximilian Schwarzmüller
 URL: https://www.udemy.com/course/python-django-the-practical-guide/
+- **Author:** Maximilian Schwarzmüller (Academind)
+- **Duration:** 23h 6m
+- **Level:** Beginner
+- **Structure:** 17 sections, 257 lectures
+  - Getting Started
+  - Course Setup
+  - URLs & Views
+  - Data & Models
+  - Relationships
+  - Forms
 
 ### Course: Flask Essential Training, authored by Natasha Ferguson
 URL: https://www.linkedin.com/learning/flask-essential-training-24681038
